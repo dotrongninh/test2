@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ninh
+=======
+xdfvgdfbvd
+dfvdfbgdbf
+fdvgdbd cbhgnnm
+>>>>>>> ebef9172a02a5d486b46d4b0c264fc2b26dcac75
